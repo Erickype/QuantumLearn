@@ -12,3 +12,19 @@ This will also serve as a platform to give a central point to show new people th
 - Students will be abe to take challenges of a topic and unluck rewards. (Stickers, UI themes, learning resources, contacts)
 - Teacher will be able to showcase its knowledge, mentor and migth get talent.
 - Students will be able to rate and comment the learning resources to bring teacher feedback.
+
+# Extracted requirements
+- Role based user login.
+- Learning resources needs multiple methods: text, code, video, documentation or links.
+- Teachers can CRUD exercises.
+- The group of learning resources create a learning path.
+- The learning paths should have an appropiate sequence based on difficulty (based on an expert criteria).
+- The learning paths will have some challenges to aprove a path. There is a minimun score to consider aproved.
+- Learning paths can be updated by adding new challenges or topics.
+- Students will be notified when a path they took was updated, however they won't lose the rewards previosly obtained. They still can get the new rewards.
+- Students can role up in or path or take a single lesson.
+- Students can only take paths based on its status. The status represents the level of knowledge considering the previous courses completed. 
+- Students can earn a reward after completing a learning resource.
+- Rewards can take several forms: text, UI, graphics, stickers, private lessons, community contacts.
+- Students can rate and comments every learning resource they take.
+- Teachers can track the performance of his learning resources.
